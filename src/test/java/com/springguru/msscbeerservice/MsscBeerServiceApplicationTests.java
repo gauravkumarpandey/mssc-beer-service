@@ -1,4 +1,4 @@
-package com.springguru.mssc_beer_service;
+package com.springguru.msscbeerservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
